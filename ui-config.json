@@ -1,8 +1,8 @@
 {
     "txt2img/Prompt/visible": true,
-    "txt2img/Prompt/value": "masterpiece, best quality,\n\n,delicate, beautiful,colorful, vividcolor, lighting,\n",
+    "txt2img/Prompt/value": "masterpiece,best quality,delicate,",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "",
+    "txt2img/Negative prompt/value": "bad legs,error legs,username,blurry,bad feet,bad hands,worst quality, low quality, normal quality,",
     "txt2img/Styles/visible": true,
     "txt2img/Styles/value": [
         "Default"
@@ -304,9 +304,9 @@
     "customscript/prompt_travel.py/txt2img/Show console debug/visible": true,
     "customscript/prompt_travel.py/txt2img/Show console debug/value": true,
     "img2img/Prompt/visible": true,
-    "img2img/Prompt/value": "",
+    "img2img/Prompt/value": "masterpiece,best quality,delicate,",
     "img2img/Negative prompt/visible": true,
-    "img2img/Negative prompt/value": "",
+    "img2img/Negative prompt/value": "bad legs,error legs,username,blurry,bad feet,bad hands,worst quality, low quality, normal quality,",
     "img2img/Styles/visible": true,
     "img2img/Styles/value": [
         "Default"
@@ -367,7 +367,7 @@
     "img2img/CFG Scale/visible": true,
     "img2img/CFG Scale/value": 11.0,
     "img2img/CFG Scale/minimum": 1.0,
-    "img2img/CFG Scale/maximum": 30.0,
+    "img2img/CFG Scale/maximum": 25.0,
     "img2img/CFG Scale/step": 0.5,
     "img2img/Denoising strength/visible": true,
     "img2img/Denoising strength/value": 0.5,
